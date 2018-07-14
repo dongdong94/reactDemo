@@ -15,7 +15,7 @@
         指定名称
         创建
     3). 将本地仓库推送到远程仓库
-        git remote add origin https://github.com/zxfjd3g/170612_JSAdvance.git 关联远程仓库
+        git remote add origin https://github.com/XXXXX.git 关联远程仓库
         git push origin master
     
     4). push本地的更新 
@@ -27,7 +27,7 @@
             git pull origin master
             
     6). 克隆github上的项目:
-        git clone https://github.com/zxfjd3g/xxx.git
+        git clone https://github.com/xxx.git
 
 ## 3. 搭建项目
     1). 使用create-react-app脚手架创建模板项目(工程化)
